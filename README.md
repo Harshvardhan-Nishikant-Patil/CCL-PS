@@ -1,6 +1,6 @@
 # CCL-PS
 
-# To Run Type Following Command in terminal.
+# To Run Type Following Command:
 
 # python [path-till]/app_devserver.py [path-till]/app.yaml 
 
